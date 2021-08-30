@@ -1,40 +1,93 @@
 **1.1** **Project process** (you need to fill in the following information):  
 
 **1.1.1** **Basic information**  
- 	Project Name format: project_name.md  
- 	Team name(s): Team _name  
-	Payment Method: payment_method  
-	Payment Address: Payment_address  
+ 	Project Name format: project_onerare.md  
+ 	Team name(s): OneRare
+	Payment Method: payment_method  gt tokens
+	Payment Address: Payment_address  gt11xl0w7demqkhyxvjafht4dqghkw5xnuzwujgqne8effjeqxncuut64j0atl9ctd6agly49t
 	
 **1.2** **Project Overview**  
 
+Game Testnet live on one-rare-test.onrender.com
+
+OneRare is the first Food Metaverse Game, bringing together millions of Foodies & Gamers to celebrate 1000’s of Dishes from across the world.
+
+Each Dish has a Recipe & Players must race to collect Ingredients to claim unique Dish NFTs. Dishes can be one-of-a-kind, or exponentially harder to unlock, so time is crucial. Collaborate with P2E Farmers & shop for Ingredients to be the first Dish owner ! 
+
+-Race to collect Ingredients & claim Dishes
+-Use Ingredient & Dish NFTs to play Mini-Games
+-Gasless Onboarding
+-Player owned Metaverse
+-Bringing the joy of Blockchain Gaming to Foodies
+-Collaborating with Chefs, Restaurants & Web3 for Special Dishes
+
 **1.2.1** **Project Introduction**
+
+While Blockchain and Cryptocurrency make the news everyday, the industry is viewed as mere speculation by the outside world. At the same time, there is also curiosity and willingness to learn. Alas, most blockchain games are extremely complicated, require big buy-ins and have a complex UI/UX that make it impossible for newbies to engage. OneRare is our attempt to simplify NFT gaming and make it accessible to all - appealing to masses with food everyone identifies with, and playing-to-earn.
+
+OneRare is an original, first of its kind NFT Economy game that runs on cooperation and trade between play-to-earn gamers and NFT collectors. Anyone can participate and own a stake in the OneRare Metaverse by contributing time or money.  
+
+We are a Game with a purpose - leveraging our inherent love for food to engage users across the world and teach them about the basics of the blockchain without being pedantic.
+ 
+We are also focused on Human Design, and each NFT is created by artists rather than computer generated programs. It allows us to enhance our uniqueness and make the reward of being an exclusive owner that much sweeter. 
+
+The spectrum of Blockchain gaming is too niche-focused on male tech gamers & developers and all games assume someone has a level of blockchain knowledge and expertise to even sign up. OneRare looks to open up the industry across demographics - creating mass appeal across ages, genders and nationalities. As a female co-founder, this is something I feel very strongly about. If an industry has to reach mass adoption, you need masses - not just a specific demographic.
+
 
 **1.3** **Project details**  
 
+We are developing an NFT Food Metaverse Game. Players race to collect ingredients as per Recipes & combine them to unlock special Dish NFTs. For example, the French Fries Recipe requires Cooking oil, Potato and Salt. Once a player procures all 3 of these ingredients & combines them, they will unlock the French Fries NFT.
+
+The game creates a metaverse for Play-to-Earn gamers & NFT Collectors. Each Recipe will be a combination of Pantry Ingredients & Special Ingredients. Pantry ingredients must be farmed & can be sold in the OneRare Farmer’s Market, allowing anyone to take part in the game without investing money. Special Ingredients can be purchased from our Shop. 
+
+The name of the game is OneRare, emphasising the uniqueness of each dish & recipe. Two types of Recipes will be featured - Rare Recipes, where minting difficulty goes up exponentially with each unlock, and Rarest of All, for which only One NFT will ever exist. 
+
+We will be covering Dishes from all across the world - allowing players to discover foods from various regions, reminisce about past travels, and bond over food. Players will also have the option to play MiniGames with their Dish NFTs to earn rewards in the form of tokens & ingredients to make more recipes.
+
+As we go further, we aim to create a OneRare Universe of combining X elements to generate a composite NFT. Next editions will cover Desserts & Cocktails, Chemistry, Automobiles and more. 
+
+
 **1.3.1** **Technology Stack Used**  
 
-Technology 1:  
+Technology 1:  ERC1155
 
-Technology 2:  
+Technology 2:  Biconomy/Graph Protocol 
+
+Game Testnet live on one-rare-test.onrender.com
+
 
  **1.4** **Team**  
+
+Gaurav Gupta, Supreet Raju + 5 Devs (UI/UX - Frontend - Smart Contracts - Backend)
  
  **1.4.1** **Team Profile:**  
+
+GAURAV Gupta is an entrepreneur with a decade of experience working across product and marketing roles for startups across the world. He has led growth for businesses like Labster, Squads, Bridallive before venturing into the blockchain space in 2017. He led the Developer program for the Dash Blockchain and helped scale the dapp ecosystem. He has been an early investor in the De-Fi space and manages a private portfolio of crypto assets.
+https://www.linkedin.com/in/gauravgupta99
+
+Supreet Raju is an award-winning Designer, specialising in Design Education & Adoption. A Gold medallist from National Institute of Fashion Technology, New Delhi, she started her career in textiles, stocking at top retailers like Debenhams, Walmart & Nordstrom. She also founded Texilist.com, an education platform to mentor Home Textile companies.
+ 
+In 2018, she started her blockchain journey and led adoption efforts for Dash in India. Adapting to new industries is her passion, self-learning UI/UX design for De-Fi & Blockchain and wanting to make Web3 accessible to all through better education.
+ 
+https://www.linkedin.com/in/supreetraju/
  
 **1.4.2** **Information of Project Leader:**  
-Name:  
-Mailbox:  
+Name:  Supreet Raju	
+Mailbox:  Supreet@onerare.io
 
 **1.5**   **Legal structure:**  
-Legal Representative:
-Registered Address:  
+Legal Representative: Gaurav Gupta
+Registered Address:  D96 Anand Niketan, Delhi 21
 
 **1.6** **Team Code Warehouse**  
-Source Code Repository:  
+Source Code Repository: 
+https://github.com/OneRare
+
+Please request us for access to github on Telegram (@gauravgupta1) since we are currently in private beta. We plan to progressively start decentralizing code soon and head towards opensource in due course. 
 
 **1.7**  
-	Project Direction:   
-	Iteration Cycle:   
-	Iteration Content:  
-	Cost:
+	Project Direction:   Closing Private Sale - About to launch in a few weeks - Testnet live on one-rare-test.onrender.com(Kovan)
+	Iteration Cycle:   1
+	Iteration Content:  -
+	Cost: Overall Project Cost - $1m (Out which raised + soft commit $750K)) 
+        Grant Request $20,000
